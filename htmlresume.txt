@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<style>
+</style>
+<h1 style="text-align : center;"> VYSHNAVI USTHELA </h1>
+<p style="text-align : center;"> H.No:4-52 Amaravaram ,Huzurnagar<br>7569692173 | <a href="mailto:vyshnaviusthela@gmail.com">vyshnaviusthela@gmail.com</a></p>
+<style>
+table,td,th
+{
+  border: 1px solid black;
+}
+th
+{
+background-color : Gray;
+}
+</style>
+<h2 style="background-color:Gray;">Objective</h2>
+<hr>
+<p>To continuosly enhance my knowledge,skills and experience by getting involved in challenging work environment and utilize them for personal and organizational growth to the best of my ability</p>
+<h2 style="background-color:Gray;">Education</h2>
+<hr>
+<table>
+<tr>
+<th>Course/Degree</th>
+<th>School/Universty</th>
+<th>Grade/Score</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>B.Tech in Computer Science and Engineering</td>
+<td>G.Narayanamma Institute of Technology and Science,For Women</td>
+<td>CGPA : 8.94 (till 5 semester) </td>
+<td>2021-2025</td>
+</tr>
+<tr>
+<td>Intermediate </td>
+<td>Sri Chaitanya Junior College</td>
+<td>Percenatage : 96</td>
+<td>2019-2021</td>
+</tr>
+<tr>
+<td>High School</td>
+<td>Sri Chaitanya Techno School</td>
+<td>GPA: 9.5 </td>
+<td>2018-2019</td>
+</tr>
+</table>
+<br>
+<h2 style="background-color:Gray;"> Skills </h2>
+<hr>
+<ul>
+<li>Programming Languages(C,Java,Python) </li>
+<li>SQL</li>
+<li>Tableau(basic)</li>
+<li>Html</li>
+<li>Data Structute and Algorithms(Basic)</li>
+</ul>
+<h2 style="background-color:Gray;">Achivements</h2>
+<hr>
+<ul>
+<li>Won 1st Prize in Math Pi Rates Inter College Quiz conducted by College</li>
+</ul>
+<h2 style="background-color:Gray;">Extracircular Activities</h2>
+<hr>
+<ul>
+<li>Participated in Hackathon conducted by College</li>
+<li>Participated in Techathon conducted by College</li>
+<li>Participated in Self-defense program</li>
+</ul>
+<h2 style="background-color:Gray;">Certifications</h2>
+<hr>
+<ul>
+<li>Certification of Tableau workshop</li>
+<li>Certification of Java intro and advanced on <b>Edyst</b></li>
+<li>Certification of Basics of Python on <b>Edyst</b></li>
+<li>Certification of Artificial Intelligence Fundamentals on <b>IBM</b></li>
+</ul>
+</body>
+</html>
